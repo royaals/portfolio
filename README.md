@@ -58,11 +58,13 @@ The project's source code is organized into different sections, each representin
 
 **Programming Language:** C, C++, Java, Python,JavaScript
 
-**Front-end:** HTML, CSS, React.js
+**Front-end:** HTML, CSS, React.js, Next.js
 
-**Back-end:** Node.js, Express, Django
+**Back-end:** Node.js, Express, Django, Flask
 
 **Database:** MongoDB, MySQL
+
+**Tools** Git, GitHub, GitLab, GCP
 
 ## 🔗 Links
 

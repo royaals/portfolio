@@ -64,7 +64,7 @@ The project's source code is organized into different sections, each representin
 
 **Database:** MongoDB, MySQL
 
-**Tools** Git, GitHub, GitLab, GCP
+**Tools:** Git, GitHub, GitLab, GCP
 
 ## 🔗 Links
 

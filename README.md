@@ -5,7 +5,7 @@ Description:
 
 This project is my personal portfolio website, showcasing my skills, experience, and projects as a web developer. The portfolio is built using HTML, CSS, and JavaScript, and it includes various sections such as home, about me, education, skills, and contact. The website is designed to be user-friendly and visually appealing, with a clean and modern layout.
 
-Website link -[https://royaals.github.io/portfolio/](https://royaals.github.io/portfolio/)
+
 
 ## Tech Stack
 
